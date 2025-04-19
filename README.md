@@ -1,6 +1,6 @@
-# dynamic_image_viewer
+# Dynamic Image Viewer
 
-A new Flutter project.
+A Flutter project by Fnu Abdullah.
 
 ## Getting Started
 
